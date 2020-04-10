@@ -47,7 +47,7 @@ public class TC_Registeraccount_006 extends BaseClass {
 		    	 rc.radionbutton();
 		    	 rc.CheckBox();
 		    	 File src1=((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
-		 	    FileUtils.copyFile(src1, new File("C:\\Users\\admin\\.eclipse\\auto\\src\\test\\java\\Registeraccount.png"));
+		 	    FileUtils.copyFile(src1, new File("C:\\Users\\admin\\.eclipse\\auto\\Screenshots\\Registeraccount.png"));
 		     }
 		     
 		     

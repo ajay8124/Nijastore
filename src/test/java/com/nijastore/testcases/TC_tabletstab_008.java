@@ -66,7 +66,7 @@ public class TC_tabletstab_008 extends BaseClass {
 		     Thread.sleep(3000);
 		     pt.confirm();
 		     File src1=((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
-			    FileUtils.copyFile(src1, new File("C:\\Users\\admin\\.eclipse\\auto\\src\\test\\java\\tablestab.png"));
+			    FileUtils.copyFile(src1, new File("C:\\Users\\admin\\.eclipse\\auto\\Screenshots\\tablestab.png"));
 		     
 
 

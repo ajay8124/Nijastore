@@ -40,7 +40,7 @@ import org.testng.annotations.Test;
 			     logger.info("login");
 			     TakeScreenshot tsc= new TakeScreenshot(driver);
 			     File src=((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
-				    FileUtils.copyFile(src, new File("C:\\Users\\admin\\.eclipse\\auto\\src\\test\\java\\HomePage.png"));
+				    FileUtils.copyFile(src, new File("C:\\Users\\admin\\.eclipse\\auto\\Screenshots\\HomePage.png"));
 
 				    //C:\\Users\\admin\\eclipse-workspace\\Screenshot\\src\\google.png"));
 

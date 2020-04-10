@@ -55,7 +55,7 @@ public class TC_Myadressbook_005 extends BaseClass {
 		     
 		     
 		     File src1=((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
-			    FileUtils.copyFile(src1, new File("C:\\Users\\admin\\.eclipse\\auto\\src\\test\\java\\Myadressbook.png"));
+			    FileUtils.copyFile(src1, new File("C:\\Users\\admin\\.eclipse\\auto\\Screenshots\\Myadressbook.png"));
 	}
 
 }

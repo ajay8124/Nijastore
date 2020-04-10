@@ -5,22 +5,19 @@
     <classes>
       <class name="com.nijastore.testcases.TC_Editaccount_003">
         <methods>
-          <include name="editaccount"/>
           <include name="setup"/>
         </methods>
       </class> <!-- com.nijastore.testcases.TC_Editaccount_003 -->
-      <class name="com.nijastore.testcases.TC_ChangePassword_004">
-        <methods>
-          <include name="Changepassword"/>
-          <include name="setup"/>
-        </methods>
-      </class> <!-- com.nijastore.testcases.TC_ChangePassword_004 -->
       <class name="com.nijastore.testcases.TC_Tabletstab_007">
         <methods>
           <include name="setup"/>
-          <include name="registeraccount"/>
         </methods>
       </class> <!-- com.nijastore.testcases.TC_Tabletstab_007 -->
+      <class name="com.nijastore.testcases.TC_ChangePassword_004">
+        <methods>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.nijastore.testcases.TC_ChangePassword_004 -->
       <class name="com.nijastore.testcases.TC_Registeraccount_006">
         <methods>
           <include name="setup"/>
@@ -37,12 +34,10 @@
         <methods>
           <include name="setup"/>
           <include name="addcart"/>
-          <include name="addcart"/>
         </methods>
       </class> <!-- com.nijastore.testcases.TC_addCart_002 -->
       <class name="com.nijastore.testcases.TC_Myadressbook_005">
         <methods>
-          <include name="Myaddressbook"/>
           <include name="setup"/>
         </methods>
       </class> <!-- com.nijastore.testcases.TC_Myadressbook_005 -->

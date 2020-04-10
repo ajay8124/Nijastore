@@ -54,6 +54,6 @@ public class TC_Editaccount_003  extends BaseClass{
 		     EA.coutiune();
 		     logger.info("Clicked on countiune");
 		     File src1=((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
-			    FileUtils.copyFile(src1, new File("C:\\Users\\admin\\.eclipse\\auto\\src\\test\\java\\Editaccount.png"));
+			    FileUtils.copyFile(src1, new File("C:\\Users\\admin\\.eclipse\\auto\\Screenshots\\Editaccount.png"));
 	}
 }

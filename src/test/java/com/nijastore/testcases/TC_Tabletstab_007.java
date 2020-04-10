@@ -42,7 +42,7 @@ public class TC_Tabletstab_007 extends BaseClass{
 	driver.navigate().back();
 	ts.wishlist();
 	File src1=((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
-    FileUtils.copyFile(src1, new File("C:\\Users\\admin\\.eclipse\\auto\\src\\test\\java\\Tabletstab.png"));
+    FileUtils.copyFile(src1, new File("C:\\Users\\admin\\.eclipse\\auto\\Screenshots\\Tabletstab.png"));
 	
 	}
 }

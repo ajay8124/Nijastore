@@ -11,7 +11,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 		
 	
 		public String URL="http://tutorialsninja.com/demo/index.php?route=account/login";
-		public String UserName="test1234567890@gmail.com";
+		public String UserName="guest1234@gmail.com";
 		public String Password="test";
 		public WebDriver driver=new ChromeDriver();
 		public Logger logger;

@@ -51,7 +51,7 @@ public class TC_ChangePassword_004 extends BaseClass {
 		     Cp.Cbutton();
 		     logger.info("Clicked on button");
 		     File src1=((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
-			    FileUtils.copyFile(src1, new File("C:\\Users\\admin\\.eclipse\\auto\\src\\test\\java\\Changepassword.png"));
+			    FileUtils.copyFile(src1, new File("C:\\Users\\admin\\.eclipse\\auto\\Screenshots\\Changepassword.png"));
 	}
 
 }

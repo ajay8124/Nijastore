@@ -38,7 +38,7 @@ public class TC_addCart_002 extends BaseClass {
 		     lp.login();
 		     logger.info("login");
 		     File src=((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
-			    FileUtils.copyFile(src, new File("C:\\Users\\admin\\.eclipse\\auto\\src\\test\\java\\HomePage.png"));
+			    FileUtils.copyFile(src, new File("C:\\Users\\admin\\.eclipse\\auto\\Screenshots\\HomePage.png"));
 
 		addtoCart ac=new addtoCart(driver);
 		ac.Shop();

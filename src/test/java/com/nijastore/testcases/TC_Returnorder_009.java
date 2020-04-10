@@ -49,7 +49,7 @@ public class TC_Returnorder_009 extends BaseClass{
 		     
 		     
 		     File src1=((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
-			    FileUtils.copyFile(src1, new File("C:\\Users\\admin\\.eclipse\\auto\\src\\test\\java\\returnorder.png"));		     
+			    FileUtils.copyFile(src1, new File("C:\\Users\\admin\\.eclipse\\auto\\Screenshots\\returnorder.png"));		     
 		     
 	}
 
