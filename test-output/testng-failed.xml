@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="com.nijastore.testcases.TC_Editaccount_003">
+        <methods>
+          <include name="editaccount"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.nijastore.testcases.TC_Editaccount_003 -->
+      <class name="com.nijastore.testcases.TC_ChangePassword_004">
+        <methods>
+          <include name="Changepassword"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.nijastore.testcases.TC_ChangePassword_004 -->
+      <class name="com.nijastore.testcases.TC_Tabletstab_007">
+        <methods>
+          <include name="setup"/>
+          <include name="registeraccount"/>
+        </methods>
+      </class> <!-- com.nijastore.testcases.TC_Tabletstab_007 -->
+      <class name="com.nijastore.testcases.TC_Registeraccount_006">
+        <methods>
+          <include name="setup"/>
+          <include name="registeraccount"/>
+        </methods>
+      </class> <!-- com.nijastore.testcases.TC_Registeraccount_006 -->
+      <class name="com.nijastore.testcases.TC_Returnorder_009">
+        <methods>
+          <include name="setup"/>
+          <include name="editaccount"/>
+        </methods>
+      </class> <!-- com.nijastore.testcases.TC_Returnorder_009 -->
+      <class name="com.nijastore.testcases.TC_addCart_002">
+        <methods>
+          <include name="setup"/>
+          <include name="addcart"/>
+          <include name="addcart"/>
+        </methods>
+      </class> <!-- com.nijastore.testcases.TC_addCart_002 -->
+      <class name="com.nijastore.testcases.TC_Myadressbook_005">
+        <methods>
+          <include name="Myaddressbook"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.nijastore.testcases.TC_Myadressbook_005 -->
+      <class name="com.nijastore.testcases.Testcases">
+        <methods>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.nijastore.testcases.Testcases -->
+      <class name="com.nijastore.testcases.TC_tabletstab_008">
+        <methods>
+          <include name="addcart"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.nijastore.testcases.TC_tabletstab_008 -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

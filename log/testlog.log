@@ -1,0 +1,602 @@
+2020-04-05 18:54:42,400 - auto -INFO - Browser Opened
+2020-04-05 18:54:43,784 - auto -INFO - Username Entered
+2020-04-05 18:54:43,917 - auto -INFO - Password Entered
+2020-04-05 18:54:45,036 - auto -INFO - login
+2020-04-05 23:51:36,789 - auto -INFO - Browser Opened
+2020-04-05 23:51:38,387 - auto -INFO - Username Entered
+2020-04-05 23:51:38,683 - auto -INFO - Password Entered
+2020-04-05 23:51:39,554 - auto -INFO - login
+2020-04-06 00:46:55,407 - auto -INFO - Browser Opened
+2020-04-06 00:46:56,937 - auto -INFO - Username Entered
+2020-04-06 00:46:57,198 - auto -INFO - Password Entered
+2020-04-06 00:46:58,535 - auto -INFO - login
+2020-04-06 00:46:59,297 - auto -INFO - clicked on shopcart button
+2020-04-06 00:48:22,265 - auto -INFO - clicked on next button
+2020-04-06 00:49:14,242 - auto -INFO - Browser Opened
+2020-04-06 00:49:15,733 - auto -INFO - Username Entered
+2020-04-06 00:49:16,036 - auto -INFO - Password Entered
+2020-04-06 00:49:17,472 - auto -INFO - login
+2020-04-06 00:49:18,128 - auto -INFO - clicked on shopcart button
+2020-04-06 00:49:21,218 - auto -INFO - clicked on next button
+2020-04-06 00:49:21,421 - auto -INFO - clicked on checkbox
+2020-04-06 00:52:48,474 - auto -INFO - Browser Opened
+2020-04-06 00:52:50,038 - auto -INFO - Username Entered
+2020-04-06 00:52:50,224 - auto -INFO - Password Entered
+2020-04-06 00:52:51,453 - auto -INFO - login
+2020-04-06 00:52:52,225 - auto -INFO - clicked on shopcart button
+2020-04-06 00:52:54,838 - auto -INFO - clicked on next button
+2020-04-06 00:52:54,971 - auto -INFO - clicked on checkbox
+2020-04-06 00:54:24,373 - auto -INFO - Browser Opened
+2020-04-06 00:54:26,348 - auto -INFO - Username Entered
+2020-04-06 00:54:26,563 - auto -INFO - Password Entered
+2020-04-06 00:54:27,795 - auto -INFO - login
+2020-04-06 00:54:28,682 - auto -INFO - clicked on shopcart button
+2020-04-06 00:54:31,645 - auto -INFO - clicked on next button
+2020-04-06 00:54:31,816 - auto -INFO - clicked on checkbox
+2020-04-06 11:30:45,484 - auto -INFO - Browser Opened
+2020-04-06 11:30:47,202 - auto -INFO - Username Entered
+2020-04-06 11:30:47,402 - auto -INFO - Password Entered
+2020-04-06 11:30:48,465 - auto -INFO - login
+2020-04-06 11:30:49,083 - auto -INFO - clicked on shopcart button
+2020-04-06 11:30:51,914 - auto -INFO - clicked on next button
+2020-04-06 11:30:52,104 - auto -INFO - clicked on checkbox
+2020-04-06 11:33:16,616 - auto -INFO - Browser Opened
+2020-04-06 11:33:18,117 - auto -INFO - Username Entered
+2020-04-06 11:33:18,296 - auto -INFO - Password Entered
+2020-04-06 11:33:19,511 - auto -INFO - login
+2020-04-06 11:33:20,184 - auto -INFO - clicked on shopcart button
+2020-04-06 11:33:23,065 - auto -INFO - clicked on next button
+2020-04-06 11:33:23,183 - auto -INFO - clicked on checkbox
+2020-04-06 11:33:23,184 - auto -INFO - name Entered
+2020-04-06 11:40:02,664 - auto -INFO - Browser Opened
+2020-04-06 11:40:04,112 - auto -INFO - Username Entered
+2020-04-06 11:40:04,215 - auto -INFO - Password Entered
+2020-04-06 11:40:05,667 - auto -INFO - login
+2020-04-06 11:40:06,314 - auto -INFO - clicked on shopcart button
+2020-04-06 11:40:08,918 - auto -INFO - clicked on next button
+2020-04-06 11:40:09,084 - auto -INFO - clicked on checkbox
+2020-04-06 11:41:23,524 - auto -INFO - Browser Opened
+2020-04-06 11:41:24,948 - auto -INFO - Username Entered
+2020-04-06 11:41:25,097 - auto -INFO - Password Entered
+2020-04-06 11:41:26,334 - auto -INFO - login
+2020-04-06 11:41:26,944 - auto -INFO - clicked on shopcart button
+2020-04-06 11:41:29,546 - auto -INFO - clicked on next button
+2020-04-06 11:41:29,667 - auto -INFO - clicked on checkbox
+2020-04-06 11:43:52,626 - auto -INFO - Browser Opened
+2020-04-06 11:43:54,131 - auto -INFO - Username Entered
+2020-04-06 11:43:54,333 - auto -INFO - Password Entered
+2020-04-06 11:43:55,280 - auto -INFO - login
+2020-04-06 11:43:55,829 - auto -INFO - clicked on shopcart button
+2020-04-06 11:43:58,767 - auto -INFO - clicked on next button
+2020-04-06 11:43:58,898 - auto -INFO - clicked on checkbox
+2020-04-06 11:43:59,819 - auto -INFO - name Entered
+2020-04-06 11:43:59,819 - auto -INFO - lastname Entered
+2020-04-06 11:43:59,821 - auto -INFO - Username Entered
+2020-04-06 11:52:05,255 - auto -INFO - Browser Opened
+2020-04-06 11:52:06,770 - auto -INFO - Username Entered
+2020-04-06 11:52:06,995 - auto -INFO - Password Entered
+2020-04-06 11:52:08,318 - auto -INFO - login
+2020-04-06 11:52:08,984 - auto -INFO - clicked on shopcart button
+2020-04-06 11:52:12,102 - auto -INFO - clicked on next button
+2020-04-06 11:52:12,211 - auto -INFO - clicked on checkbox
+2020-04-06 11:52:13,758 - auto -INFO - name Entered
+2020-04-06 11:54:07,144 - auto -INFO - Browser Opened
+2020-04-06 11:54:08,663 - auto -INFO - Username Entered
+2020-04-06 11:54:08,926 - auto -INFO - Password Entered
+2020-04-06 11:54:09,820 - auto -INFO - login
+2020-04-06 11:54:10,423 - auto -INFO - clicked on shopcart button
+2020-04-06 11:54:13,051 - auto -INFO - clicked on next button
+2020-04-06 11:54:13,211 - auto -INFO - clicked on checkbox
+2020-04-06 11:54:14,835 - auto -INFO - name Entered
+2020-04-06 12:13:23,111 - auto -INFO - Browser Opened
+2020-04-06 12:13:24,598 - auto -INFO - Username Entered
+2020-04-06 12:13:24,817 - auto -INFO - Password Entered
+2020-04-06 12:13:25,851 - auto -INFO - login
+2020-04-06 12:13:26,401 - auto -INFO - clicked on shopcart button
+2020-04-06 12:13:29,072 - auto -INFO - clicked on next button
+2020-04-06 12:13:29,173 - auto -INFO - clicked on checkbox
+2020-04-06 12:13:30,505 - auto -INFO - name Entered
+2020-04-06 12:15:12,419 - auto -INFO - Browser Opened
+2020-04-06 12:15:14,274 - auto -INFO - Username Entered
+2020-04-06 12:15:14,594 - auto -INFO - Password Entered
+2020-04-06 12:15:15,913 - auto -INFO - login
+2020-04-06 12:15:16,607 - auto -INFO - clicked on shopcart button
+2020-04-06 12:15:19,197 - auto -INFO - clicked on next button
+2020-04-06 12:15:19,334 - auto -INFO - clicked on checkbox
+2020-04-06 12:15:20,969 - auto -INFO - name Entered
+2020-04-06 12:15:20,973 - auto -INFO - lastname Entered
+2020-04-06 12:15:20,974 - auto -INFO - Username Entered
+2020-04-06 12:17:51,439 - auto -INFO - Browser Opened
+2020-04-06 12:17:52,968 - auto -INFO - Username Entered
+2020-04-06 12:17:53,156 - auto -INFO - Password Entered
+2020-04-06 12:17:54,325 - auto -INFO - login
+2020-04-06 12:17:54,971 - auto -INFO - clicked on shopcart button
+2020-04-06 12:17:58,138 - auto -INFO - clicked on next button
+2020-04-06 12:17:58,245 - auto -INFO - clicked on checkbox
+2020-04-06 12:17:59,537 - auto -INFO - name Entered
+2020-04-06 12:17:59,537 - auto -INFO - lastname Entered
+2020-04-06 12:17:59,538 - auto -INFO - Username Entered
+2020-04-06 12:49:11,937 - auto -INFO - Browser Opened
+2020-04-06 12:49:13,484 - auto -INFO - Username Entered
+2020-04-06 12:49:13,647 - auto -INFO - Password Entered
+2020-04-06 12:49:14,512 - auto -INFO - login
+2020-04-06 12:49:15,069 - auto -INFO - clicked on shopcart button
+2020-04-06 12:49:17,755 - auto -INFO - clicked on next button
+2020-04-06 12:49:17,894 - auto -INFO - clicked on checkbox
+2020-04-06 12:49:19,571 - auto -INFO - name Entered
+2020-04-06 12:49:19,571 - auto -INFO - lastname Entered
+2020-04-06 12:49:19,572 - auto -INFO - Username Entered
+2020-04-06 12:51:47,763 - auto -INFO - Browser Opened
+2020-04-06 12:51:49,284 - auto -INFO - Username Entered
+2020-04-06 12:51:49,470 - auto -INFO - Password Entered
+2020-04-06 12:51:50,356 - auto -INFO - login
+2020-04-06 12:51:50,917 - auto -INFO - clicked on shopcart button
+2020-04-06 12:51:53,711 - auto -INFO - clicked on next button
+2020-04-06 12:51:53,823 - auto -INFO - clicked on checkbox
+2020-04-06 12:51:55,419 - auto -INFO - name Entered
+2020-04-06 12:51:55,420 - auto -INFO - lastname Entered
+2020-04-06 12:51:55,421 - auto -INFO - Username Entered
+2020-04-06 13:11:47,444 - auto -INFO - Browser Opened
+2020-04-06 13:11:48,888 - auto -INFO - Username Entered
+2020-04-06 13:11:49,138 - auto -INFO - Password Entered
+2020-04-06 13:11:50,222 - auto -INFO - login
+2020-04-06 13:11:50,827 - auto -INFO - clicked on shopcart button
+2020-04-06 13:11:53,484 - auto -INFO - clicked on next button
+2020-04-06 13:11:53,596 - auto -INFO - clicked on checkbox
+2020-04-06 13:11:54,955 - auto -INFO - name Entered
+2020-04-06 13:11:54,959 - auto -INFO - lastname Entered
+2020-04-06 13:11:54,960 - auto -INFO - Username Entered
+2020-04-06 16:06:02,417 - auto -INFO - Browser Opened
+2020-04-06 16:06:03,867 - auto -INFO - Username Entered
+2020-04-06 16:06:04,025 - auto -INFO - Password Entered
+2020-04-06 16:06:04,979 - auto -INFO - login
+2020-04-06 16:06:05,499 - auto -INFO - clicked on shopcart button
+2020-04-06 16:06:08,535 - auto -INFO - clicked on next button
+2020-04-06 16:06:08,686 - auto -INFO - clicked on checkbox
+2020-04-06 16:06:10,271 - auto -INFO - name Entered
+2020-04-06 16:06:10,272 - auto -INFO - lastname Entered
+2020-04-06 16:06:10,273 - auto -INFO - Username Entered
+2020-04-06 16:35:05,841 - auto -INFO - Browser Opened
+2020-04-06 16:35:07,287 - auto -INFO - Username Entered
+2020-04-06 16:35:07,499 - auto -INFO - Password Entered
+2020-04-06 16:35:08,409 - auto -INFO - login
+2020-04-06 16:39:43,110 - auto -INFO - Browser Opened
+2020-04-06 16:39:44,555 - auto -INFO - Username Entered
+2020-04-06 16:39:44,688 - auto -INFO - Password Entered
+2020-04-06 16:39:45,539 - auto -INFO - login
+2020-04-06 16:39:47,144 - auto -INFO - clicked on edit infromation
+2020-04-06 16:39:47,291 - auto -INFO - first name entred
+2020-04-06 16:39:47,458 - auto -INFO - last name entred
+2020-04-06 16:39:47,649 - auto -INFO - Emailid name entred
+2020-04-06 16:39:47,736 - auto -INFO - telephone name entred
+2020-04-06 16:43:46,235 - auto -INFO - Browser Opened
+2020-04-06 16:43:47,703 - auto -INFO - Username Entered
+2020-04-06 16:43:47,842 - auto -INFO - Password Entered
+2020-04-06 16:43:48,753 - auto -INFO - login
+2020-04-06 16:43:50,608 - auto -INFO - clicked on edit infromation
+2020-04-06 16:43:50,794 - auto -INFO - first name entred
+2020-04-06 16:43:50,923 - auto -INFO - last name entred
+2020-04-06 16:43:51,244 - auto -INFO - Emailid name entred
+2020-04-06 16:43:51,408 - auto -INFO - telephone name entred
+2020-04-06 16:43:51,733 - auto -INFO - Clicked on countiune
+2020-04-06 16:45:06,361 - auto -INFO - Browser Opened
+2020-04-06 16:45:07,804 - auto -INFO - Username Entered
+2020-04-06 16:45:07,930 - auto -INFO - Password Entered
+2020-04-06 16:45:08,967 - auto -INFO - login
+2020-04-06 16:45:10,639 - auto -INFO - clicked on edit infromation
+2020-04-06 16:45:10,787 - auto -INFO - first name entred
+2020-04-06 16:45:10,909 - auto -INFO - last name entred
+2020-04-06 16:45:11,159 - auto -INFO - Emailid name entred
+2020-04-06 16:45:11,246 - auto -INFO - telephone name entred
+2020-04-06 16:45:11,439 - auto -INFO - Clicked on countiune
+2020-04-06 16:48:55,140 - auto -INFO - Browser Opened
+2020-04-06 16:48:56,673 - auto -INFO - Username Entered
+2020-04-06 16:48:56,870 - auto -INFO - Password Entered
+2020-04-06 16:48:57,862 - auto -INFO - login
+2020-04-06 16:48:59,568 - auto -INFO - clicked on edit infromation
+2020-04-06 16:48:59,717 - auto -INFO - first name entred
+2020-04-06 16:48:59,816 - auto -INFO - last name entred
+2020-04-06 16:49:00,024 - auto -INFO - Emailid name entred
+2020-04-06 16:49:00,137 - auto -INFO - telephone name entred
+2020-04-06 16:49:01,117 - auto -INFO - Clicked on countiune
+2020-04-06 17:16:36,401 - auto -INFO - Browser Opened
+2020-04-06 17:16:37,884 - auto -INFO - Username Entered
+2020-04-06 17:16:38,079 - auto -INFO - Password Entered
+2020-04-06 17:16:38,837 - auto -INFO - login
+2020-04-06 17:16:39,011 - auto -INFO -  change Password Entered
+2020-04-06 17:18:06,628 - auto -INFO - Browser Opened
+2020-04-06 17:18:07,998 - auto -INFO - Username Entered
+2020-04-06 17:18:08,095 - auto -INFO - Password Entered
+2020-04-06 17:18:08,624 - auto -INFO - login
+2020-04-06 17:18:08,750 - auto -INFO -  change Password Entered
+2020-04-06 17:20:23,371 - auto -INFO - Browser Opened
+2020-04-06 17:20:24,803 - auto -INFO - Username Entered
+2020-04-06 17:20:24,934 - auto -INFO - Password Entered
+2020-04-06 17:20:25,749 - auto -INFO - login
+2020-04-06 17:32:52,396 - auto -INFO - Browser Opened
+2020-04-06 17:32:53,872 - auto -INFO - Username Entered
+2020-04-06 17:32:54,052 - auto -INFO - Password Entered
+2020-04-06 17:32:54,885 - auto -INFO - login
+2020-04-06 17:32:56,507 - auto -INFO -  clicked on Password button
+2020-04-06 17:34:43,888 - auto -INFO - Browser Opened
+2020-04-06 17:34:45,291 - auto -INFO - Username Entered
+2020-04-06 17:34:45,419 - auto -INFO - Password Entered
+2020-04-06 17:34:46,427 - auto -INFO - login
+2020-04-06 17:34:48,128 - auto -INFO -  clicked on Password button
+2020-04-06 17:36:31,078 - auto -INFO - Browser Opened
+2020-04-06 17:36:32,501 - auto -INFO - Username Entered
+2020-04-06 17:36:32,809 - auto -INFO - Password Entered
+2020-04-06 17:36:33,710 - auto -INFO - login
+2020-04-06 17:36:35,381 - auto -INFO -  clicked on Password button
+2020-04-06 17:37:41,354 - auto -INFO - Browser Opened
+2020-04-06 17:37:42,793 - auto -INFO - Username Entered
+2020-04-06 17:37:42,894 - auto -INFO - Password Entered
+2020-04-06 17:37:43,823 - auto -INFO - login
+2020-04-06 17:37:45,500 - auto -INFO - clicked on edit infromation
+2020-04-06 17:37:45,722 - auto -INFO - first name entred
+2020-04-06 17:37:45,874 - auto -INFO - last name entred
+2020-04-06 17:37:46,134 - auto -INFO - Emailid name entred
+2020-04-06 17:37:46,237 - auto -INFO - telephone name entred
+2020-04-06 17:37:47,026 - auto -INFO - Clicked on countiune
+2020-04-06 17:37:47,577 - auto -INFO -  clicked on Password button
+2020-04-06 17:39:26,911 - auto -INFO - Browser Opened
+2020-04-06 17:39:28,312 - auto -INFO - Username Entered
+2020-04-06 17:39:28,447 - auto -INFO - Password Entered
+2020-04-06 17:39:29,067 - auto -INFO - login
+2020-04-06 17:51:25,224 - auto -INFO - Browser Opened
+2020-04-06 17:51:26,695 - auto -INFO - Username Entered
+2020-04-06 17:51:26,845 - auto -INFO - Password Entered
+2020-04-06 17:51:27,477 - auto -INFO - login
+2020-04-06 17:53:39,111 - auto -INFO - Browser Opened
+2020-04-06 17:53:40,521 - auto -INFO - Username Entered
+2020-04-06 17:53:40,720 - auto -INFO - Password Entered
+2020-04-06 17:53:41,630 - auto -INFO - login
+2020-04-06 17:53:42,289 - auto -INFO -  clicked on Password button
+2020-04-06 17:53:42,445 - auto -INFO -  change Password Entered
+2020-04-06 17:53:42,572 - auto -INFO -  change Password Entered and confirmd
+2020-04-06 17:53:43,385 - auto -INFO - Clicked on button
+2020-04-06 17:55:12,596 - auto -INFO - Browser Opened
+2020-04-06 17:55:14,600 - auto -INFO - Username Entered
+2020-04-06 17:55:14,775 - auto -INFO - Password Entered
+2020-04-06 17:55:15,722 - auto -INFO - login
+2020-04-06 17:55:16,385 - auto -INFO -  clicked on Password button
+2020-04-06 17:55:16,639 - auto -INFO -  change Password Entered
+2020-04-06 17:55:16,809 - auto -INFO -  change Password Entered and confirmd
+2020-04-06 17:55:17,695 - auto -INFO - Clicked on button
+2020-04-06 18:01:08,474 - auto -INFO - Browser Opened
+2020-04-06 18:01:09,842 - auto -INFO - Username Entered
+2020-04-06 18:01:09,988 - auto -INFO - Password Entered
+2020-04-06 18:01:10,948 - auto -INFO - login
+2020-04-06 18:01:11,498 - auto -INFO -  clicked on Password button
+2020-04-06 18:01:11,586 - auto -INFO -  change Password Entered
+2020-04-06 18:01:11,696 - auto -INFO -  change Password Entered and confirmd
+2020-04-06 18:01:12,495 - auto -INFO - Clicked on button
+2020-04-06 18:01:18,131 - auto -INFO - Browser Opened
+2020-04-06 18:01:19,606 - auto -INFO - Username Entered
+2020-04-06 18:01:19,814 - auto -INFO - Password Entered
+2020-04-06 18:01:20,828 - auto -INFO - login
+2020-04-06 18:01:28,451 - auto -INFO - Browser Opened
+2020-04-06 18:01:29,860 - auto -INFO - Username Entered
+2020-04-06 18:01:29,970 - auto -INFO - Password Entered
+2020-04-06 18:01:30,990 - auto -INFO - login
+2020-04-06 18:01:31,568 - auto -INFO - clicked on shopcart button
+2020-04-06 18:01:34,942 - auto -INFO - clicked on next button
+2020-04-06 18:01:35,042 - auto -INFO - clicked on checkbox
+2020-04-06 18:01:36,483 - auto -INFO - name Entered
+2020-04-06 18:01:36,484 - auto -INFO - lastname Entered
+2020-04-06 18:01:36,484 - auto -INFO - Username Entered
+2020-04-06 18:01:43,533 - auto -INFO - Browser Opened
+2020-04-06 18:01:44,981 - auto -INFO - Username Entered
+2020-04-06 18:01:45,132 - auto -INFO - Password Entered
+2020-04-06 18:01:46,397 - auto -INFO - login
+2020-04-06 18:01:48,145 - auto -INFO - clicked on edit infromation
+2020-04-06 18:01:48,326 - auto -INFO - first name entred
+2020-04-06 18:01:48,457 - auto -INFO - last name entred
+2020-04-06 18:01:48,691 - auto -INFO - Emailid name entred
+2020-04-06 18:01:48,788 - auto -INFO - telephone name entred
+2020-04-06 18:01:49,632 - auto -INFO - Clicked on countiune
+2020-04-06 19:24:02,895 - auto -INFO - Browser Opened
+2020-04-06 19:24:04,547 - auto -INFO - Username Entered
+2020-04-06 19:24:04,751 - auto -INFO - Password Entered
+2020-04-06 19:24:05,840 - auto -INFO - login
+2020-04-06 19:25:51,285 - auto -INFO - Browser Opened
+2020-04-06 19:25:52,847 - auto -INFO - Username Entered
+2020-04-06 19:25:53,029 - auto -INFO - Password Entered
+2020-04-06 19:25:54,189 - auto -INFO - login
+2020-04-06 19:28:23,103 - auto -INFO - Browser Opened
+2020-04-06 19:28:24,770 - auto -INFO - Username Entered
+2020-04-06 19:28:24,950 - auto -INFO - Password Entered
+2020-04-06 19:28:25,991 - auto -INFO - login
+2020-04-06 19:34:51,131 - auto -INFO - Browser Opened
+2020-04-06 19:34:52,651 - auto -INFO - Username Entered
+2020-04-06 19:34:52,757 - auto -INFO - Password Entered
+2020-04-06 19:34:55,109 - auto -INFO - login
+2020-04-06 19:36:38,591 - auto -INFO - Browser Opened
+2020-04-06 19:36:40,197 - auto -INFO - Username Entered
+2020-04-06 19:36:40,400 - auto -INFO - Password Entered
+2020-04-06 19:36:41,535 - auto -INFO - login
+2020-04-06 21:51:23,723 - auto -INFO - Browser Opened
+2020-04-06 21:51:25,112 - auto -INFO - Username Entered
+2020-04-06 21:51:25,208 - auto -INFO - Password Entered
+2020-04-06 21:51:26,330 - auto -INFO - login
+2020-04-06 21:53:26,435 - auto -INFO - Browser Opened
+2020-04-06 21:53:27,971 - auto -INFO - Username Entered
+2020-04-06 21:53:28,138 - auto -INFO - Password Entered
+2020-04-06 21:53:29,214 - auto -INFO - login
+2020-04-06 22:05:16,552 - auto -INFO - Browser Opened
+2020-04-06 22:05:18,020 - auto -INFO - Username Entered
+2020-04-06 22:05:18,156 - auto -INFO - Password Entered
+2020-04-06 22:05:19,054 - auto -INFO - login
+2020-04-06 22:07:48,795 - auto -INFO - Browser Opened
+2020-04-06 22:07:50,264 - auto -INFO - Username Entered
+2020-04-06 22:07:50,401 - auto -INFO - Password Entered
+2020-04-06 22:07:51,578 - auto -INFO - login
+2020-04-06 22:11:49,644 - auto -INFO - Browser Opened
+2020-04-06 22:11:51,071 - auto -INFO - Username Entered
+2020-04-06 22:11:51,199 - auto -INFO - Password Entered
+2020-04-06 22:11:52,379 - auto -INFO - login
+2020-04-06 22:13:05,718 - auto -INFO - Browser Opened
+2020-04-06 22:13:07,156 - auto -INFO - Username Entered
+2020-04-06 22:13:07,284 - auto -INFO - Password Entered
+2020-04-06 22:13:08,202 - auto -INFO - login
+2020-04-06 22:14:13,026 - auto -INFO - Browser Opened
+2020-04-06 22:14:14,650 - auto -INFO - Username Entered
+2020-04-06 22:14:14,760 - auto -INFO - Password Entered
+2020-04-06 22:14:15,936 - auto -INFO - login
+2020-04-06 22:16:33,339 - auto -INFO - Browser Opened
+2020-04-06 22:16:34,852 - auto -INFO - Username Entered
+2020-04-06 22:16:35,015 - auto -INFO - Password Entered
+2020-04-06 22:16:35,961 - auto -INFO - login
+2020-04-07 19:06:03,243 - auto -INFO - Browser Opened
+2020-04-07 19:06:05,048 - auto -INFO - Username Entered
+2020-04-07 19:06:05,156 - auto -INFO - Password Entered
+2020-04-07 19:06:07,543 - auto -INFO - login
+2020-04-07 19:07:28,530 - auto -INFO - Browser Opened
+2020-04-07 19:07:29,978 - auto -INFO - Username Entered
+2020-04-07 19:07:30,118 - auto -INFO - Password Entered
+2020-04-07 19:07:32,018 - auto -INFO - login
+2020-04-07 19:16:48,943 - auto -INFO - Browser Opened
+2020-04-07 19:19:19,491 - auto -INFO - Browser Opened
+2020-04-07 19:22:18,860 - auto -INFO - Browser Opened
+2020-04-07 19:24:38,070 - auto -INFO - Browser Opened
+2020-04-07 19:26:14,597 - auto -INFO - Browser Opened
+2020-04-07 19:26:16,001 - auto -INFO - Username Entered
+2020-04-07 19:26:16,130 - auto -INFO - Password Entered
+2020-04-07 19:28:28,954 - auto -INFO - Browser Opened
+2020-04-07 19:28:30,441 - auto -INFO - Username Entered
+2020-04-07 19:28:30,610 - auto -INFO - Password Entered
+2020-04-07 19:31:43,024 - auto -INFO - Browser Opened
+2020-04-07 19:31:44,545 - auto -INFO - Username Entered
+2020-04-07 19:31:44,704 - auto -INFO - Password Entered
+2020-04-07 19:33:36,980 - auto -INFO - Browser Opened
+2020-04-07 19:33:38,457 - auto -INFO - Username Entered
+2020-04-07 19:33:38,594 - auto -INFO - Password Entered
+2020-04-07 19:35:39,346 - auto -INFO - Browser Opened
+2020-04-07 19:35:40,865 - auto -INFO - Username Entered
+2020-04-07 19:35:41,047 - auto -INFO - Password Entered
+2020-04-07 19:37:44,532 - auto -INFO - Browser Opened
+2020-04-07 19:37:45,960 - auto -INFO - Username Entered
+2020-04-07 19:37:46,098 - auto -INFO - Password Entered
+2020-04-07 19:47:54,167 - auto -INFO - Browser Opened
+2020-04-07 19:47:55,575 - auto -INFO - Username Entered
+2020-04-07 19:47:55,768 - auto -INFO - Password Entered
+2020-04-07 19:47:57,146 - auto -INFO - login
+2020-04-07 19:47:57,943 - auto -INFO - clicked on shopcart button
+2020-04-07 19:48:02,048 - auto -INFO - clicked on next button
+2020-04-07 19:48:02,162 - auto -INFO - clicked on checkbox
+2020-04-07 19:48:05,446 - auto -INFO - name Entered
+2020-04-07 19:48:05,446 - auto -INFO - lastname Entered
+2020-04-07 19:48:05,447 - auto -INFO - Username Entered
+2020-04-07 20:18:44,788 - auto -INFO - Browser Opened
+2020-04-07 20:18:47,169 - auto -INFO - Username Entered
+2020-04-07 20:18:47,261 - auto -INFO - Password Entered
+2020-04-07 20:18:48,447 - auto -INFO - login
+2020-04-07 21:10:45,861 - auto -INFO - Browser Opened
+2020-04-07 21:11:51,466 - auto -INFO - Browser Opened
+2020-04-07 21:11:52,970 - auto -INFO - Username Entered
+2020-04-07 21:11:53,286 - auto -INFO - Password Entered
+2020-04-07 21:11:54,746 - auto -INFO - login
+2020-04-07 21:14:22,952 - auto -INFO - Browser Opened
+2020-04-07 21:14:24,402 - auto -INFO - Username Entered
+2020-04-07 21:14:24,561 - auto -INFO - Password Entered
+2020-04-07 21:14:25,949 - auto -INFO - login
+2020-04-07 21:17:20,136 - auto -INFO - Browser Opened
+2020-04-07 21:17:21,667 - auto -INFO - Username Entered
+2020-04-07 21:17:21,774 - auto -INFO - Password Entered
+2020-04-07 21:17:23,463 - auto -INFO - login
+2020-04-07 21:18:15,776 - auto -INFO - Browser Opened
+2020-04-07 21:18:17,173 - auto -INFO - Username Entered
+2020-04-07 21:18:17,274 - auto -INFO - Password Entered
+2020-04-07 21:18:18,439 - auto -INFO - login
+2020-04-07 21:26:46,427 - auto -INFO - Browser Opened
+2020-04-07 21:26:47,934 - auto -INFO - Username Entered
+2020-04-07 21:26:48,069 - auto -INFO - Password Entered
+2020-04-07 21:26:49,332 - auto -INFO - login
+2020-04-07 21:26:50,173 - auto -INFO - clicked on shopcart button
+2020-04-07 21:26:53,330 - auto -INFO - clicked on next button
+2020-04-07 21:26:53,437 - auto -INFO - clicked on checkbox
+2020-04-07 21:26:54,834 - auto -INFO - name Entered
+2020-04-07 21:26:54,835 - auto -INFO - lastname Entered
+2020-04-07 21:26:54,835 - auto -INFO - Username Entered
+2020-04-09 00:07:22,103 - auto -INFO - Browser Opened
+2020-04-09 00:08:14,183 - auto -INFO - Browser Opened
+2020-04-09 00:08:16,728 - auto -INFO - Username Entered
+2020-04-09 00:08:16,900 - auto -INFO - Password Entered
+2020-04-09 00:08:18,397 - auto -INFO - login
+2020-04-09 00:10:36,972 - auto -INFO - Browser Opened
+2020-04-09 00:10:38,599 - auto -INFO - Username Entered
+2020-04-09 00:10:38,705 - auto -INFO - Password Entered
+2020-04-09 00:10:40,248 - auto -INFO - login
+2020-04-09 00:13:07,056 - auto -INFO - Browser Opened
+2020-04-09 00:13:09,358 - auto -INFO - Username Entered
+2020-04-09 00:13:09,471 - auto -INFO - Password Entered
+2020-04-09 00:13:10,637 - auto -INFO - login
+2020-04-09 00:19:10,602 - auto -INFO - Browser Opened
+2020-04-09 00:19:12,174 - auto -INFO - Username Entered
+2020-04-09 00:19:12,331 - auto -INFO - Password Entered
+2020-04-09 00:19:13,706 - auto -INFO - login
+2020-04-09 00:24:18,609 - auto -INFO - Browser Opened
+2020-04-09 00:24:20,240 - auto -INFO - Username Entered
+2020-04-09 00:24:20,426 - auto -INFO - Password Entered
+2020-04-09 00:24:21,630 - auto -INFO - login
+2020-04-09 00:46:37,530 - auto -INFO - Browser Opened
+2020-04-09 00:46:39,164 - auto -INFO - Username Entered
+2020-04-09 00:46:39,427 - auto -INFO - Password Entered
+2020-04-09 00:46:40,744 - auto -INFO - login
+2020-04-09 00:54:19,482 - auto -INFO - Browser Opened
+2020-04-09 00:54:21,006 - auto -INFO - Username Entered
+2020-04-09 00:54:21,191 - auto -INFO - Password Entered
+2020-04-09 00:54:22,443 - auto -INFO - login
+2020-04-09 00:56:20,409 - auto -INFO - Browser Opened
+2020-04-09 00:56:22,056 - auto -INFO - Username Entered
+2020-04-09 00:56:22,353 - auto -INFO - Password Entered
+2020-04-09 00:56:23,416 - auto -INFO - login
+2020-04-09 00:58:53,122 - auto -INFO - Browser Opened
+2020-04-09 00:58:54,746 - auto -INFO - Username Entered
+2020-04-09 00:58:54,928 - auto -INFO - Password Entered
+2020-04-09 00:58:56,801 - auto -INFO - login
+2020-04-09 01:00:54,311 - auto -INFO - Browser Opened
+2020-04-09 01:00:56,011 - auto -INFO - Username Entered
+2020-04-09 01:00:56,288 - auto -INFO - Password Entered
+2020-04-09 01:00:57,458 - auto -INFO - login
+2020-04-09 01:02:27,476 - auto -INFO - Browser Opened
+2020-04-09 01:02:28,992 - auto -INFO - Username Entered
+2020-04-09 01:02:29,149 - auto -INFO - Password Entered
+2020-04-09 01:02:30,252 - auto -INFO - login
+2020-04-09 11:02:01,486 - auto -INFO - Browser Opened
+2020-04-09 11:02:03,365 - auto -INFO - Username Entered
+2020-04-09 11:02:03,466 - auto -INFO - Password Entered
+2020-04-09 11:02:04,924 - auto -INFO - login
+2020-04-09 11:03:35,441 - auto -INFO - Browser Opened
+2020-04-09 11:03:36,899 - auto -INFO - Username Entered
+2020-04-09 11:03:37,047 - auto -INFO - Password Entered
+2020-04-09 11:03:38,273 - auto -INFO - login
+2020-04-09 11:10:12,947 - auto -INFO - Browser Opened
+2020-04-09 11:10:14,404 - auto -INFO - Username Entered
+2020-04-09 11:10:14,592 - auto -INFO - Password Entered
+2020-04-09 11:10:15,772 - auto -INFO - login
+2020-04-09 11:50:14,204 - auto -INFO - Browser Opened
+2020-04-09 11:50:15,683 - auto -INFO - Username Entered
+2020-04-09 11:50:15,855 - auto -INFO - Password Entered
+2020-04-09 11:50:17,118 - auto -INFO - login
+2020-04-09 17:38:02,640 - auto -INFO - Browser Opened
+2020-04-09 17:39:03,235 - auto -INFO - Browser Opened
+2020-04-09 17:39:04,727 - auto -INFO - Username Entered
+2020-04-09 17:39:04,855 - auto -INFO - Password Entered
+2020-04-09 17:39:06,517 - auto -INFO - login
+2020-04-09 17:41:39,061 - auto -INFO - Browser Opened
+2020-04-09 17:41:40,572 - auto -INFO - Username Entered
+2020-04-09 17:41:40,716 - auto -INFO - Password Entered
+2020-04-09 17:41:41,946 - auto -INFO - login
+2020-04-09 17:50:20,721 - auto -INFO - Browser Opened
+2020-04-09 17:50:22,245 - auto -INFO - Username Entered
+2020-04-09 17:50:22,417 - auto -INFO - Password Entered
+2020-04-09 17:50:23,735 - auto -INFO - login
+2020-04-09 17:57:00,514 - auto -INFO - Browser Opened
+2020-04-09 17:57:02,131 - auto -INFO - Username Entered
+2020-04-09 17:57:02,315 - auto -INFO - Password Entered
+2020-04-09 17:57:03,828 - auto -INFO - login
+2020-04-09 18:02:24,477 - auto -INFO - Browser Opened
+2020-04-09 18:02:25,937 - auto -INFO - Username Entered
+2020-04-09 18:02:26,106 - auto -INFO - Password Entered
+2020-04-09 18:02:27,448 - auto -INFO - login
+2020-04-09 18:06:44,842 - auto -INFO - Browser Opened
+2020-04-09 18:06:46,283 - auto -INFO - Username Entered
+2020-04-09 18:06:46,395 - auto -INFO - Password Entered
+2020-04-09 18:06:47,690 - auto -INFO - login
+2020-04-09 18:34:26,280 - auto -INFO - Browser Opened
+2020-04-09 18:34:27,711 - auto -INFO - Username Entered
+2020-04-09 18:34:27,804 - auto -INFO - Password Entered
+2020-04-09 18:34:29,092 - auto -INFO - login
+2020-04-09 18:35:48,569 - auto -INFO - Browser Opened
+2020-04-09 18:36:11,834 - auto -INFO - Browser Opened
+2020-04-09 18:37:59,411 - auto -INFO - Browser Opened
+2020-04-09 18:38:00,819 - auto -INFO - Username Entered
+2020-04-09 18:38:00,948 - auto -INFO - Password Entered
+2020-04-09 18:38:02,805 - auto -INFO - login
+2020-04-09 18:38:32,842 - auto -INFO - clicked on shopcart button
+2020-04-09 18:38:44,502 - auto -INFO - clicked on next button
+2020-04-09 18:38:44,643 - auto -INFO - clicked on checkbox
+2020-04-09 18:38:46,268 - auto -INFO - name Entered
+2020-04-09 18:38:46,274 - auto -INFO - lastname Entered
+2020-04-09 18:38:46,275 - auto -INFO - Username Entered
+2020-04-09 18:42:40,574 - auto -INFO - Browser Opened
+2020-04-09 18:42:41,987 - auto -INFO - Username Entered
+2020-04-09 18:42:42,093 - auto -INFO - Password Entered
+2020-04-09 18:42:43,463 - auto -INFO - login
+2020-04-09 18:42:45,226 - auto -INFO - clicked on shopcart button
+2020-04-09 18:42:52,965 - auto -INFO - clicked on next button
+2020-04-09 18:42:53,070 - auto -INFO - clicked on checkbox
+2020-04-09 18:42:59,750 - auto -INFO - name Entered
+2020-04-09 18:42:59,751 - auto -INFO - lastname Entered
+2020-04-09 18:42:59,751 - auto -INFO - Username Entered
+2020-04-09 18:48:01,009 - auto -INFO - Browser Opened
+2020-04-09 18:48:54,233 - auto -INFO - Browser Opened
+2020-04-09 18:48:55,750 - auto -INFO - Username Entered
+2020-04-09 18:48:55,845 - auto -INFO - Password Entered
+2020-04-09 18:49:03,185 - auto -INFO - login
+2020-04-09 18:49:06,157 - auto -INFO - clicked on shopcart button
+2020-04-09 18:51:24,492 - auto -INFO - clicked on next button
+2020-04-09 18:51:29,579 - auto -INFO - clicked on checkbox
+2020-04-09 18:54:02,507 - auto -INFO - Browser Opened
+2020-04-09 18:54:03,987 - auto -INFO - Username Entered
+2020-04-09 18:54:04,102 - auto -INFO - Password Entered
+2020-04-09 18:54:05,425 - auto -INFO - login
+2020-04-09 18:54:09,902 - auto -INFO - clicked on shopcart button
+2020-04-10 18:32:46,171 - auto -INFO - Browser Opened
+2020-04-10 18:32:48,620 - auto -INFO - Username Entered
+2020-04-10 18:32:48,708 - auto -INFO - Password Entered
+2020-04-10 18:32:50,185 - auto -INFO - login
+2020-04-10 18:32:53,093 - auto -INFO - clicked on shopcart button
+2020-04-10 18:32:56,483 - auto -INFO - clicked on next button
+2020-04-10 18:32:56,626 - auto -INFO - clicked on checkbox
+2020-04-10 18:32:58,897 - auto -INFO - name Entered
+2020-04-10 18:32:58,898 - auto -INFO - lastname Entered
+2020-04-10 18:32:58,898 - auto -INFO - Username Entered
+2020-04-10 18:39:50,737 - auto -INFO - Browser Opened
+2020-04-10 18:39:52,604 - auto -INFO - Username Entered
+2020-04-10 18:39:52,734 - auto -INFO - Password Entered
+2020-04-10 18:39:54,203 - auto -INFO - login
+2020-04-10 18:39:56,586 - auto -INFO - clicked on edit infromation
+2020-04-10 18:39:56,738 - auto -INFO - first name entred
+2020-04-10 18:39:56,869 - auto -INFO - last name entred
+2020-04-10 18:39:57,063 - auto -INFO - Emailid name entred
+2020-04-10 18:39:57,152 - auto -INFO - telephone name entred
+2020-04-10 18:39:57,994 - auto -INFO - Clicked on countiune
+2020-04-10 18:47:24,514 - auto -INFO - Browser Opened
+2020-04-10 18:47:26,911 - auto -INFO - Username Entered
+2020-04-10 18:47:27,042 - auto -INFO - Password Entered
+2020-04-10 18:47:27,863 - auto -INFO - login
+2020-04-10 18:47:41,888 - auto -INFO - Browser Opened
+2020-04-10 18:47:43,688 - auto -INFO - Username Entered
+2020-04-10 18:47:43,823 - auto -INFO - Password Entered
+2020-04-10 18:47:44,985 - auto -INFO - login
+2020-04-10 18:47:57,356 - auto -INFO - Browser Opened
+2020-04-10 18:47:58,949 - auto -INFO - Username Entered
+2020-04-10 18:47:59,057 - auto -INFO - Password Entered
+2020-04-10 18:48:06,678 - auto -INFO - Browser Opened
+2020-04-10 18:48:09,084 - auto -INFO - Username Entered
+2020-04-10 18:48:09,173 - auto -INFO - Password Entered
+2020-04-10 18:48:10,010 - auto -INFO - login
+2020-04-10 18:48:23,192 - auto -INFO - Browser Opened
+2020-04-10 18:48:25,425 - auto -INFO - Username Entered
+2020-04-10 18:48:25,528 - auto -INFO - Password Entered
+2020-04-10 18:48:26,433 - auto -INFO - login
+2020-04-10 18:48:56,217 - auto -INFO - Browser Opened
+2020-04-10 18:48:57,758 - auto -INFO - Username Entered
+2020-04-10 18:48:57,848 - auto -INFO - Password Entered
+2020-04-10 18:48:59,031 - auto -INFO - login
+2020-04-10 18:49:27,506 - auto -INFO - Browser Opened
+2020-04-10 18:49:29,186 - auto -INFO - Username Entered
+2020-04-10 18:49:29,301 - auto -INFO - Password Entered
+2020-04-10 18:49:31,021 - auto -INFO - login
+2020-04-10 18:50:45,980 - auto -INFO - Browser Opened
+2020-04-10 18:50:47,828 - auto -INFO - Username Entered
+2020-04-10 18:50:47,910 - auto -INFO - Password Entered
+2020-04-10 18:50:49,423 - auto -INFO - login
+2020-04-10 18:51:21,402 - auto -INFO - Browser Opened
+2020-04-10 18:51:23,061 - auto -INFO - Username Entered
+2020-04-10 18:51:23,147 - auto -INFO - Password Entered
+2020-04-10 18:51:25,118 - auto -INFO - login
+2020-04-10 18:51:28,681 - auto -INFO - clicked on shopcart button
+2020-04-10 18:51:33,481 - auto -INFO - clicked on next button
